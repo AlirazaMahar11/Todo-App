@@ -1,0 +1,45 @@
+body{
+    text-align: center;
+    background-image: url(https://images.unsplash.com/photo-1523634921619-37ce98c1877f?auto=format&fit=crop&q=80&w=1746&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 100px;
+    color: red;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+input{
+    background-color: rgb(14, 222, 55);
+    width: 600px;
+    height: 35px;
+    border-radius: 60px;
+}
+
+input:hover{
+    background-color: aqua;
+}
+
+button{
+    border-color: blue;
+    border-radius: 40px;
+    border-width: 4px;
+    width: 150px;
+    height: 40px;
+    background-color: red;
+    font-size: 20px;
+    color:chartreuse;
+}
+
+button:hover{
+    background-color:rgb(101, 2, 166);
+}
+
+li{
+    padding-right: 550px;
+    padding-top: 50px;
+    color:black;
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
